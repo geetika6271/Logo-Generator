@@ -1,4 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🤖 AI Logo Generator using Next.js, React, Gemini API & Hugging Face
+
+Full-stack project having modern AI-powered web app designed to generate logos from user prompts using generative AI models. Built with **Next.js**, **React**, and integrated with **Hugging Face** and **Gemini API**, it allows authenticated users to generate, view, and save logos using intelligent image synthesis.
+
+---
+
+## 🚀 Features
+
+- 🔡 Generate logos based on user input prompts using AI.
+- 🧠 Support for Hugging Face diffusion models and Gemini AI API.
+- 👤 Secure user authentication with Clerk.
+- 💾 Save and retrieve generated logos via a user dashboard.
+- 📊 Visualize saved logos with a responsive and modern UI.
+- 📤 Export or screenshot logos for use in branding or presentations.
+
+---
+
+## 🧰 Technologies Used
+
+- **Frontend**: Next.js, React, TailwindCSS
+- **Authentication**: Clerk
+- **AI Integration**: Hugging Face API, Gemini API
+- **Database**: PostgreSQL (via Prisma)
+- **Visualization & UI**: React + TailwindCSS
+
+---
+
+Install required Node packages:
+
+```bash
+npm install
+
 
 ## Getting Started
 
