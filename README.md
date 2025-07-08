@@ -1,4 +1,4 @@
-# 🤖 AI Logo Generator using Next.js, React, Gemini API & Hugging Face
+# AI Logo Generator 
 
 Full-stack project having modern AI-powered web app designed to generate logos from user prompts using generative AI models. Built with **Next.js**, **React**, and integrated with **Hugging Face** and **Gemini API**, it allows authenticated users to generate, view, and save logos using intelligent image synthesis.
 
